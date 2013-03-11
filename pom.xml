@@ -32,6 +32,10 @@
         <directory>${basedir}/resources</directory>
         <filtering>true</filtering>
       </resource>
+      <resource>
+        <directory>${basedir}/ee3_common</directory>
+        <filtering>true</filtering>
+      </resource>
     </resources>
   </build>
 </project>
